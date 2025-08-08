@@ -1,4 +1,4 @@
-package com.tnsif.springcore1;
+package com.tnsif.springcore2;
 
 public class Car implements Vehicle {
 	@ Override
